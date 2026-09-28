@@ -47,6 +47,9 @@ _Replace with the plan's list. Placeholder beginner progression:_
 - [ ] Facings/collar: turn and press sharp points
 - [ ] Rolled hem (for the silk neckerchief)
 
+## Workspace (2026-09-28)
+- White fold-in-half plastic table (~6 ft) against wall, bed to the left. Machine on left half, cutting on right half with mat bridging the seam. To do: clear it, wobble test, task lamp, iron station.
+
 ## What's next
 1. Commit SEWING_PLAN.md + SETUP_WEEK.md to this repo so I can read them.
 2. Get the Brother model number from your parents (see today's checklist).

@@ -15,12 +15,14 @@
 ## Order / buy now (works with any machine)
 | Item | Why | Est. | Status |
 |---|---|---|---|
+| OLFA RM-MG 24"×36" self-healing mat (the green one) | Covers one table half and bridges the hinge seam; protects table from pins/tracing wheel; needed for rotary cutting | ~$57–78 (seen 2026-09-28, verify) | ☐ |
+| OLFA RTY-2/G 45mm rotary cutter + spare blade | Fast, accurate straight cuts: pleat panels, bias trim strips, neckerchief square | ~$22–32 (seen 2026-09-28, verify) | ☐ |
 | Kai 5210 8" dressmaking shears | Fabric only, ever. Resale-grade. | verify | ☐ |
 | Small thread snips | Clipping threads at the machine | verify | ☐ |
 | Seam ripper (×2) | You will use it. A lot. | verify | ☐ |
 | Glass-head pins + magnetic pin dish | Glass heads don't melt under the iron | verify | ☐ |
 | 60"/150 cm tape measure | — | verify | ☐ |
-| Clear ruler 6"×24" | Pleat marking, straight lines | verify | ☐ |
+| Clear ruler 6"×24" | Pleat marking, straight lines; also the rotary-cutter guide | verify | ☐ |
 | Tailor's chalk / chalk wheel | Marking you can brush off | verify | ☐ |
 | Tracing paper + tracing wheel | Transferring pattern marks | verify | ☐ |
 | Hand-sewing needles + thimble | Dry-session hand finishing | verify | ☐ |
