@@ -10,6 +10,7 @@
 | Option | Status | Est. | Notes |
 |---|---|---|---|
 | Parents' Brother **SM3701** | ✅ Chosen, pending arrival test | shipping only (quote TBD) | Lightweight entry-level machine, low resale value. Fine for light and medium fabrics; the risk is thick pleated waistband layers. |
+| Singer Heavy Duty 8832 (Costco) | Considered 2026-09-28, not buying now | $139.99–$189.99 (verify) | More power for thick layers, but low resale and no clear jump in quality. Costco's easy returns are the real advantage. Revisit only if the SM3701 fails the bulk test. |
 | Janome HD3000 (buy) | Fallback | ~$430–$600 new (verify; wide spread across dealers) | Metal frame, mechanical, holds resale. Buy from a dealer that includes setup/service if possible. |
 
 ## Order / buy now (works with any machine)

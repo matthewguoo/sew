@@ -50,6 +50,11 @@ _Replace with the plan's list. Placeholder beginner progression:_
 ## Workspace (2026-09-28)
 - White fold-in-half plastic table (~6 ft) against wall, bed to the left. Machine on left half, cutting on right half with mat bridging the seam. To do: clear it, wobble test, task lamp, iron station.
 
+## Week 1 plan (1–4 Oct): hand sewing only, no machine needed
+- **Thu 1 Oct (1 h):** threading a hand needle, the quilter's knot, running stitch, backstitch → sampler cards #1–2
+- **Sat/Sun 3–4 Oct (3 h):** cut 20 muslin squares (8"×8") with the rotary cutter; slip stitch + blind hem cards #3–4; hand-sew a small tool pouch (first real "thing" made)
+- Gate for week 1: 10 backstitches in a row, evenly spaced at about 1/8" each, and a hem whose stitches don't show on the right side of the fabric
+
 ## What's next
 1. Commit SEWING_PLAN.md + SETUP_WEEK.md to this repo so I can read them.
 2. Get the Brother model number from your parents (see today's checklist).
