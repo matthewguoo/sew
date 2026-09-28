@@ -9,7 +9,7 @@
 ## Machine (decide by Fri 2 Oct)
 | Option | Status | Est. | Notes |
 |---|---|---|---|
-| Parents' Brother | Waiting on model # | shipping + service (verify) | $0 machine; resale value low-to-moderate |
+| Parents' Brother **SM3701** | ✅ Chosen, pending arrival test | shipping only (quote TBD) | Lightweight entry-level machine, low resale value. Fine for light and medium fabrics; the risk is thick pleated waistband layers. |
 | Janome HD3000 (buy) | Fallback | ~$430–$600 new (verify; wide spread across dealers) | Metal frame, mechanical, holds resale. Buy from a dealer that includes setup/service if possible. |
 
 ## Order / buy now (works with any machine)
@@ -55,7 +55,12 @@ https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0006SDOFO&Quantity.1=1&ASIN.
 
 Prices not verified item-by-item. Record the actual cart total in the Log below.
 
-## Wait until the machine is decided
+## SM3701 arrival test (before the first machine session)
+1. Thread it using the manual, wind a bobbin, sew a straight line on 2 layers of muslin. Stitches should look the same on both sides.
+2. Zigzag + buttonhole on 2 layers.
+3. **Bulk test:** 8 layers of muslin (simulates the pleated waistband). Needle 90/14 or 100/16, slow speed, turn the handwheel by hand over the thickest spot. If it stalls, skips or bends needles, reopen the Janome decision.
+
+## Wait until the machine is decided (now: SM3701, confirm part numbers in its manual)
 - Bobbins (Brother and Janome use different classes. Wrong bobbins cause tension problems.)
 - Extra presser feet (zipper, blind hem, edge-stitch)
 - Machine oil / lint brush (check the manual first. Some machines shouldn't be oiled by the owner.)
