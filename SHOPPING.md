@@ -62,6 +62,9 @@ Prices not verified item-by-item. Record the actual cart total in the Log below.
 2. Zigzag + buttonhole on 2 layers.
 3. **Bulk test:** 8 layers of muslin (simulates the pleated waistband). Needle 90/14 or 100/16, slow speed, turn the handwheel by hand over the thickest spot. If it stalls, skips or bends needles, reopen the Janome decision.
 
+## Deferred pressing kit (decided 2026-09-29)
+Iron, ironing board and tailor's ham. **Must arrive before the first machine session (~10–11 Oct). Order by Sat 3 Oct.**
+
 ## Wait until the machine is decided (now: SM3701, confirm part numbers in its manual)
 - Bobbins (Brother and Janome use different classes. Wrong bobbins cause tension problems.)
 - Extra presser feet (zipper, blind hem, edge-stitch)
