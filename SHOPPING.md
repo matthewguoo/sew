@@ -29,12 +29,13 @@
 | Hand-sewing needles + thimble | Dry-session hand finishing | verify | ☐ |
 | Schmetz Universal 80/12 and 90/14 (130/705H; fits Brother and Janome household machines) | Right size for cotton/poly practice | verify | ☐ |
 | Practice fabric: 3–4 yd medium-weight cotton/muslin | Sampler swatches | verify | ☐ |
-| Iron (steam) + board, if you don't have one | Pressing is half of sewing | verify | ☐ |
+| Rowenta DW5280 Focus Excel steam iron (B08DZJX8L1) | Pressing is half of sewing; precision tip for collar points | ~$60–90 (verify) | ☐ |
+| Seymour full-size mesh-top ironing board (B0BMW1SPH1) | Steam passes through; 35" high | verify | ☐ |
 | Pressing ham + press cloth | Curves, collar | verify | ☐ |
 | Binder + sheet protectors + cardstock | Sampler binder | verify | ☐ |
 
 ## Amazon cart — 2026-09-28 (placed? ☐)
-One-click cart link (Amazon may ask you to confirm):
+One-click cart link: **DID NOT WORK** (2026-09-29). Use the item links below instead.
 https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0006SDOFO&Quantity.1=1&ASIN.2=B0006SJB24&Quantity.2=1&ASIN.3=B01LZULDUS&Quantity.3=1&ASIN.4=B001CE8JKQ&Quantity.4=1&ASIN.5=B0016825RG&Quantity.5=1&ASIN.6=B0018N251A&Quantity.6=1&ASIN.7=B0055727Q8&Quantity.7=1&ASIN.8=B002978IF6&Quantity.8=1&ASIN.9=B06X6N6BCP&Quantity.9=1&ASIN.10=B004BPA3HA&Quantity.10=1&ASIN.11=B004BPALY0&Quantity.11=1&ASIN.12=B0B1J9KD12&Quantity.12=1&ASIN.13=B01LF0OVOO&Quantity.13=1&ASIN.14=B003W0O2DQ&Quantity.14=1
 
 | Item | ASIN | Link |
@@ -50,7 +51,7 @@ https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0006SDOFO&Quantity.1=1&ASIN.
 | Schmetz Universal assortment 70/10–100/16 (30) | B06X6N6BCP | https://www.amazon.com/dp/B06X6N6BCP |
 | Gütermann Sew-All 547yd, black | B004BPA3HA | https://www.amazon.com/dp/B004BPA3HA |
 | Gütermann Sew-All 547yd, scarlet | B004BPALY0 | https://www.amazon.com/dp/B004BPALY0 |
-| Cotton muslin 63"×5yd, medium weight | B0B1J9KD12 | https://www.amazon.com/dp/B0B1J9KD12 |
+| Cotton muslin 63"×5yd, medium weight | B01N22CQ0Y | https://www.amazon.com/dp/B01N22CQ0Y |
 | John James JJN80000 assorted hand needles (30) | B01LF0OVOO | https://www.amazon.com/dp/B01LF0OVOO |
 | Dritz 562 tailor's ham | B003W0O2DQ | https://www.amazon.com/dp/B003W0O2DQ |
 
