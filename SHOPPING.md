@@ -34,7 +34,7 @@
 | Pressing ham + press cloth | Curves, collar | verify | ☐ |
 | Binder + sheet protectors + cardstock | Sampler binder | verify | ☐ |
 
-## Amazon cart — 2026-09-28 (placed? ☐)
+## Amazon cart — 2026-09-28 (placed 2026-09-29 ✅, minus iron, board and ham)
 One-click cart link: **DID NOT WORK** (2026-09-29). Use the item links below instead.
 https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0006SDOFO&Quantity.1=1&ASIN.2=B0006SJB24&Quantity.2=1&ASIN.3=B01LZULDUS&Quantity.3=1&ASIN.4=B001CE8JKQ&Quantity.4=1&ASIN.5=B0016825RG&Quantity.5=1&ASIN.6=B0018N251A&Quantity.6=1&ASIN.7=B0055727Q8&Quantity.7=1&ASIN.8=B002978IF6&Quantity.8=1&ASIN.9=B06X6N6BCP&Quantity.9=1&ASIN.10=B004BPA3HA&Quantity.10=1&ASIN.11=B004BPALY0&Quantity.11=1&ASIN.12=B0B1J9KD12&Quantity.12=1&ASIN.13=B01LF0OVOO&Quantity.13=1&ASIN.14=B003W0O2DQ&Quantity.14=1
 
@@ -77,3 +77,5 @@ Iron, ironing board and tailor's ham. **Must arrive before the first machine ses
 ## Log
 | Date | Item | Vendor | Paid | Arrived |
 |---|---|---|---|---|
+| 2026-09-29 | Starter order: items 3–10, 12–16 (tools, muslin, needles, thread) | Amazon | **total TBD** | muslin 2026-09-30; rest pending |
+| — | Pressing kit: iron, board, tailor's ham | — | — | **order by Sat 3 Oct** |
