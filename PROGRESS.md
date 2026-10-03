@@ -50,10 +50,11 @@ _Replace with the plan's list. Placeholder beginner progression:_
 ## Workspace (2026-09-28)
 - White fold-in-half plastic table (~6 ft) against wall, bed to the left. Machine on left half, cutting on right half with mat bridging the seam. To do: clear it, wobble test, task lamp, iron station.
 
-## Week 1 plan (1–4 Oct): hand sewing only, no machine needed
-- **Thu 1 Oct (1 h):** threading a hand needle, the quilter's knot, running stitch, backstitch → sampler cards #1–2
-- **Sat/Sun 3–4 Oct (3 h):** cut 20 muslin squares (8"×8") with the rotary cutter; slip stitch + blind hem cards #3–4; hand-sew a small tool pouch (first real "thing" made)
-- Gate for week 1: 10 backstitches in a row, evenly spaced at about 1/8" each, and a hem whose stitches don't show on the right side of the fabric
+## Week 1 plan (revised 2026-10-03: supplies arrived Sat, Thu session missed)
+- **Sun 4 Oct (~3 h):** set up the table → rotary-cut 12 muslin squares (8"×8") → cards #1 running stitch, #2 backstitch → label and photo
+- **Week of 5 Oct (weekday dry sessions):** #3 slip stitch · #4 blind hem · hand-sewn tool pouch
+- Week 1 gate (unchanged): 10 backstitches in a row, evenly spaced at about 1/8" each, plus a hem whose stitches don't show on the right side
+- Slip: 1 session. No impact on the muslin or fitting dates.
 
 ## Resources
 - **Stanford Textile Makerspace**: Pigott Hall 260-238. Sewing machines, a serger, a coverstitch machine and donated fabric. Listed as for Stanford students, faculty and staff; access for Matthew unconfirmed. Hours change, so check textilemakerspace.stanford.edu/hours. Contact: Quinn Dombrowski (address on making.stanford.edu). Planned uses: try a serger, get in-person help, get free practice fabric. Not a replacement for the home setup.

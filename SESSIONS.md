@@ -10,3 +10,4 @@ One line per session. Format:
 | 2026-09-28 | setup | — | Machine identified: Brother SM3701. Decision: ship it + arrival test | — | — |
 | 2026-09-28 | setup | — | Considered Costco Singer HD; decided to use the SM3701 and revisit only if it fails the bulk test. Week 1 plan written | — | — |
 | 2026-09-30 | setup | — | Starter Amazon order placed (all but pressing kit); muslin arrived | Order total not yet logged | — |
+| 2026-10-01 | dry | 0 | Skipped: supplies not yet arrived | Delivery timing | — |
