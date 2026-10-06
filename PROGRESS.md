@@ -51,7 +51,7 @@ _Replace with the plan's list. Placeholder beginner progression:_
 - White fold-in-half plastic table (~6 ft) against wall, bed to the left. Machine on left half, cutting on right half with mat bridging the seam. To do: clear it, wobble test, task lamp, iron station.
 
 ## Week 1 plan (revised 2026-10-03: supplies arrived Sat, Thu session missed)
-- **Sun 4 Oct (~3 h):** set up the table → rotary-cut 12 muslin squares (8"×8") → cards #1 running stitch, #2 backstitch → label and photo
+- **Tue 6 Oct (~3 h, moved from Sun):** follow guides/01-cutting-and-first-stitches.md (12 squares, cards #1–2)
 - **Week of 5 Oct (weekday dry sessions):** #3 slip stitch · #4 blind hem · hand-sewn tool pouch
 - Week 1 gate (unchanged): 10 backstitches in a row, evenly spaced at about 1/8" each, plus a hem whose stitches don't show on the right side
 - Slip: 1 session. No impact on the muslin or fitting dates.
