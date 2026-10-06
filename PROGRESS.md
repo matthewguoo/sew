@@ -32,6 +32,7 @@ _To be copied in from SEWING_PLAN.md: 8 phases, each with its skill gate._
 
 ## Skills checklist
 _Replace with the plan's list. Placeholder beginner progression:_
+- [~] Rotary cutting (2026-10-06: squares cut, accuracy to re-check after pressing)
 - [ ] Thread machine + wind/insert bobbin without looking it up
 - [ ] Straight seam at 5/8" (1.5 cm), within 1/16"
 - [ ] Backstitch/lock stitch at start & end
