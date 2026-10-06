@@ -63,7 +63,10 @@ Prices not verified item-by-item. Record the actual cart total in the Log below.
 3. **Bulk test:** 8 layers of muslin (simulates the pleated waistband). Needle 90/14 or 100/16, slow speed, turn the handwheel by hand over the thickest spot. If it stalls, skips or bends needles, reopen the Janome decision.
 
 ## Deferred pressing kit (decided 2026-09-29)
-Iron, ironing board and tailor's ham. **Must arrive before the first machine session (~10–11 Oct). Order by Sat 3 Oct.**
+Iron, ironing board and tailor's ham. Not yet ordered (2026-10-06).
+- **Iron: required before the first machine session.** First ask parents to ship a spare with the Brother (free). Otherwise buy the Rowenta DW5280.
+- **Board: can wait.** For now: a thick folded towel on a wooden board, never directly on the plastic table.
+- **Ham: can wait** until curved seams (blouse/collar).
 
 ## Wait until the machine is decided (now: SM3701, confirm part numbers in its manual)
 - Bobbins (Brother and Janome use different classes. Wrong bobbins cause tension problems.)
