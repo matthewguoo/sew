@@ -12,3 +12,4 @@ One line per session. Format:
 | 2026-09-30 | setup | — | Starter Amazon order placed (all but pressing kit); muslin arrived | Order total not yet logged | — |
 | 2026-10-01 | dry | 0 | Skipped: supplies not yet arrived | Delivery timing | — |
 | 2026-10-06 | weekend-block | 40 | Rotary-cut ~12+ muslin squares 8"x8" (guide 01, part 1) | Fabric very wrinkled (no iron yet), so edges are a bit wavy; accuracy unverified | — |
+| 2026-10-08 | admin | — | Bought Singer HD8832 at Costco ($149.99, sale through 10/11); Brother not needed | — | — |

@@ -1,6 +1,6 @@
 # SHOPPING
 
-**Budget:** $1,000 · **Spent:** $0 · **Committed (ordered, unpaid/unarrived):** $0 · **Left:** $1,000
+**Budget:** $1,000 · **Spent:** ≥$149.99 (+ tax; Amazon order total still missing) · **Committed (ordered, unpaid/unarrived):** $0 · **Left:** $1,000
 
 > Prices marked "verify" are rough ranges seen 2026-09-28 and **not confirmed**. Check the
 > price at checkout and record what you actually paid.
@@ -9,8 +9,8 @@
 ## Machine (decide by Fri 2 Oct)
 | Option | Status | Est. | Notes |
 |---|---|---|---|
-| Parents' Brother **SM3701** | ✅ Chosen, pending arrival test | shipping only (quote TBD) | Lightweight entry-level machine, low resale value. Fine for light and medium fabrics; the risk is thick pleated waistband layers. |
-| Singer Heavy Duty 8832 (Costco) | Considered 2026-09-28, not buying now | $139.99–$189.99 (verify) | More power for thick layers, but low resale and no clear jump in quality. Costco's easy returns are the real advantage. Revisit only if the SM3701 fails the bulk test. |
+| Parents' Brother **SM3701** | ⏸ Not needed. Tell parents not to ship. | shipping only (quote TBD) | Lightweight entry-level machine, low resale value. Fine for light and medium fabrics; the risk is thick pleated waistband layers. |
+| Singer Heavy Duty 8832 (Costco, item 1928743) | ✅ **BOUGHT 2026-10-08** at $149.99 + tax ($40 off, valid through 10/11). Keep the box and receipt until the arrival test passes. | $139.99–$189.99 (verify) | More power for thick layers, but low resale and no clear jump in quality. Costco's easy returns are the real advantage. Revisit only if the SM3701 fails the bulk test. |
 | Janome HD3000 (buy) | Fallback | ~$430–$600 new (verify; wide spread across dealers) | Metal frame, mechanical, holds resale. Buy from a dealer that includes setup/service if possible. |
 
 ## Order / buy now (works with any machine)
@@ -57,10 +57,10 @@ https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0006SDOFO&Quantity.1=1&ASIN.
 
 Prices not verified item-by-item. Record the actual cart total in the Log below.
 
-## SM3701 arrival test (before the first machine session)
+## Machine arrival test (now for the Singer HD8832; run within the return window) (before the first machine session)
 1. Thread it using the manual, wind a bobbin, sew a straight line on 2 layers of muslin. Stitches should look the same on both sides.
 2. Zigzag + buttonhole on 2 layers.
-3. **Bulk test:** 8 layers of muslin (simulates the pleated waistband). Needle 90/14 or 100/16, slow speed, turn the handwheel by hand over the thickest spot. If it stalls, skips or bends needles, reopen the Janome decision.
+3. **Bulk test:** 8 layers of muslin (simulates the pleated waistband). Needle 90/14 or 100/16, slow speed, turn the handwheel by hand over the thickest spot. If it stalls, skips or bends needles, or the stitches look uneven, return it to Costco.
 
 ## Deferred pressing kit (decided 2026-09-29)
 Iron, ironing board and tailor's ham. Not yet ordered (2026-10-06).
@@ -68,7 +68,7 @@ Iron, ironing board and tailor's ham. Not yet ordered (2026-10-06).
 - **Board: can wait.** For now: a thick folded towel on a wooden board, never directly on the plastic table.
 - **Ham: can wait** until curved seams (blouse/collar).
 
-## Wait until the machine is decided (now: SM3701, confirm part numbers in its manual)
+## Wait until the machine arrives (Singer HD8832: confirm bobbin class and foot type in its manual)
 - Bobbins (Brother and Janome use different classes. Wrong bobbins cause tension problems.)
 - Extra presser feet (zipper, blind hem, edge-stitch)
 - Machine oil / lint brush (check the manual first. Some machines shouldn't be oiled by the owner.)
@@ -80,5 +80,6 @@ Iron, ironing board and tailor's ham. Not yet ordered (2026-10-06).
 ## Log
 | Date | Item | Vendor | Paid | Arrived |
 |---|---|---|---|---|
+| 2026-10-08 | Singer Heavy Duty 8832 | Costco | $149.99 + tax | pending |
 | 2026-09-29 | Starter order: items 3–10, 12–16 (tools, muslin, needles, thread) | Amazon | **total TBD** | muslin 2026-09-30; rest pending |
 | — | Pressing kit: iron, board, tailor's ham | — | — | **order by Sat 3 Oct** |

@@ -10,7 +10,7 @@ _Last updated: 2026-09-28 (Mon, setup week)_
 - **Phase:** Setup week (27–30 Sep 2026)
 - **Current project:** None. Setting up the workspace and sorting out the machine.
 - **Week:** 0 of 22 (Week 1 starts Thu 1 Oct 2026, finish early Mar 2027)
-- **Machine:** Brother SM3701 (parents'). Recommendation: ship it. It must pass the arrival test (see SHOPPING.md) before the first machine session. Janome HD3000 stays as the fallback.
+- **Machine:** Singer Heavy Duty 8832, bought from Costco 2026-10-08. Run the arrival test while it can still be returned. The Brother SM3701 is not being shipped.
 
 ## Fixed milestones (from the brief)
 | When | What | Non-negotiable? |
