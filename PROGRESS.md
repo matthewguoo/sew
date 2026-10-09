@@ -57,6 +57,12 @@ _Replace with the plan's list. Placeholder beginner progression:_
 - Week 1 gate (unchanged): 10 backstitches in a row, evenly spaced at about 1/8" each, plus a hem whose stitches don't show on the right side
 - Slip: 1 session. No impact on the muslin or fitting dates.
 
+## Order of work (decided 2026-10-09)
+1. Cards #1–2 hand stitches (guide 01, parts 2–5). Overdue, and they're the week 1 gate.
+2. Unbox the machine and check its contents only. No sewing yet.
+3. Weekend block: guide 02, machine arrival test (no iron needed for it).
+4. Real machine seams only once an iron is on hand.
+
 ## Resources
 - **Stanford Textile Makerspace**: Pigott Hall 260-238. Sewing machines, a serger, a coverstitch machine and donated fabric. Listed as for Stanford students, faculty and staff; access for Matthew unconfirmed. Hours change, so check textilemakerspace.stanford.edu/hours. Contact: Quinn Dombrowski (address on making.stanford.edu). Planned uses: try a serger, get in-person help, get free practice fabric. Not a replacement for the home setup.
 
