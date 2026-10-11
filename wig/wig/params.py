@@ -56,8 +56,9 @@ class Design:
     p_shaft_max: float = 15_000.0          # continuous-rated shaft power available (W)
     p_shaft_peak: float = 20_000.0         # short-burst (takeoff) shaft power (W)
     prop_diam: float = 1.30                # m (caged pusher)
-    prop_eta_profile: float = 0.85         # non-ideal losses (profile drag, tip, cage)
-    prop_kappa: float = 1.15               # induced-power factor
+    prop_eta_static: float = 0.62          # non-ideal factor at V=0 (profile drag, cage, tip); calibrated
+    prop_eta_cruise: float = 0.80          # same at cruise speed (fixed-pitch prop near its design J)
+    prop_kappa: float = 1.20               # induced-power factor
     prop_x: float = 2.3                    # prop disk x from spine nose (m)
     prop_z: float = 1.0                    # prop axis height above keel line (m)
     thrust_angle_deg: float = 0.0          # + = nose-up component (thrust tilted down at the back)
