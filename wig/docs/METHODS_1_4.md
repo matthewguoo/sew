@@ -115,7 +115,7 @@ table is cached in `out/ge_table.npz`, delete it after changing wing geometry).
   stepped planing hulls. *Marine Technology* 47(1), 1–16.
 * ITTC (1957). Model-ship correlation line.
 * Katz, J., Plotkin, A. (2001). *Low-Speed Aerodynamics*, 2nd ed., Cambridge UP, §12.3 (vortex
-  ring method) and §8.? (Trefftz plane).
+  ring method) and ch. 8 (Trefftz-plane induced drag).
 * Helmbold, H. B. (1942) lift-slope formula as given in Anderson, *Fundamentals of Aerodynamics*.
 * McCormick, B. W. (1979/1995). *Aerodynamics, Aeronautics and Flight Mechanics*, Wiley — ground
   effect induced-drag factor.
