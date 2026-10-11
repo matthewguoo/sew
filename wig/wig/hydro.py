@@ -55,10 +55,13 @@ def planing_surface(V, load, b, tau_deg, beta_deg, lam_max, fluid=SEAWATER, spra
     cv = V / math.sqrt(G * b)
     cl_req = load / (0.5 * rho * V ** 2 * b ** 2)
     f = lambda lam: savitsky_cl(lam, tau_deg, cv, beta_deg) - cl_req
+    lam_lo = 1e-4
     if f(lam_max) < 0:          # even full wetted length can't make the lift: plowing
         lam, ok = lam_max, False
+    elif f(lam_lo) >= 0:        # load so small the wetted length is negligible
+        lam, ok = lam_lo, True
     else:
-        lam, ok = brentq(f, 1e-3, lam_max), True
+        lam, ok = brentq(f, lam_lo, lam_max), True
     tau = math.radians(tau_deg)
     beta = math.radians(beta_deg)
     cl0 = tau_deg ** 1.1 * (0.0120 * lam ** 0.5 + 0.0055 * lam ** 2.5 / cv ** 2)
